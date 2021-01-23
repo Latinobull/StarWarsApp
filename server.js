@@ -43,6 +43,13 @@ var characters = [
     age: 73,
     forcePoints: 2000,
   },
+  {
+    routeName: "anakin",
+    name: "Anakin",
+    role: "Jedi Student",
+    age: 25,
+    forcePoints: 1400,
+  },
 ];
 
 // Routes
